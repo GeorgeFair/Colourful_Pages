@@ -8,3 +8,16 @@
     height: 100px;
     background-color: red;
 }
+
+.boxTwo {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid lightgray;
+}
+
+.boxThree {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
