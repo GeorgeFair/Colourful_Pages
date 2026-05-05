@@ -1,4 +1,5 @@
 let container = document.querySelector(".container");
+container.style.backgroundColor = "lightgray";
 
 let box1 = document.querySelector("#box1");
 box1.style.backgroundColor = "red";
