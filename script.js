@@ -1,6 +1,6 @@
 let container = document.querySelector(".container");
 container.style.backgroundColor = "lightgray";
-container.style.border = "black solid 1px";
+container.style.border = "1px solid black";
 
 
 let box1 = document.querySelector("#box1");
